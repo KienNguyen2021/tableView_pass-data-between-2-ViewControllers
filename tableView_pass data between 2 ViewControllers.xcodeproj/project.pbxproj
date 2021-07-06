@@ -13,6 +13,7 @@
 		21BF624226949ED8008F9925 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 21BF624026949ED8008F9925 /* Main.storyboard */; };
 		21BF624426949ED8008F9925 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21BF624326949ED8008F9925 /* Assets.xcassets */; };
 		21BF624726949ED8008F9925 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 21BF624526949ED8008F9925 /* LaunchScreen.storyboard */; };
+		21BF624F2694A1DF008F9925 /* OtherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21BF624E2694A1DF008F9925 /* OtherViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		21BF624326949ED8008F9925 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		21BF624626949ED8008F9925 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		21BF624826949ED8008F9925 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		21BF624E2694A1DF008F9925 /* OtherViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OtherViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				21BF624326949ED8008F9925 /* Assets.xcassets */,
 				21BF624526949ED8008F9925 /* LaunchScreen.storyboard */,
 				21BF624826949ED8008F9925 /* Info.plist */,
+				21BF624E2694A1DF008F9925 /* OtherViewController.swift */,
 			);
 			path = "tableView_pass data between 2 ViewControllers";
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				21BF623F26949ED8008F9925 /* ViewController.swift in Sources */,
+				21BF624F2694A1DF008F9925 /* OtherViewController.swift in Sources */,
 				21BF623B26949ED8008F9925 /* AppDelegate.swift in Sources */,
 				21BF623D26949ED8008F9925 /* SceneDelegate.swift in Sources */,
 			);
